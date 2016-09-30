@@ -1,0 +1,110 @@
+<resources>
+
+    <!--App Name-->
+    <string name="app_name">Quiz App Final</string>
+
+    <!--Displays the text for the "Submit Quiz" button.-->
+    <string name="submit_quiz">Submit Quiz</string>
+
+    <!--Displays the Header text for question 1.-->
+    <string name="header_question_1">Question # 1</string>
+
+    <!--Displays the text for the actual question.-->
+    <string name="actual_question_1">What is the name of the film sequel to Alice In Wonderland?</string>
+
+    <!--Displays text for answer A, question 1.-->
+    <string name="Q1A1">Through The Looking Glass</string>
+
+    <!--Displays text for answer B, question 1.-->
+    <string name="Q1_Answer_B">Alice Goes To New York</string>
+
+    <!--Displays text for answer C, question 1.-->
+    <string name="Q1_Answer_C">The Mad Hatter</string>
+
+    <!--Displays the header text for question 2.-->
+    <string name="Header_question_2">Question # 2</string>
+
+    <!--Displays the actual text for question 2.-->
+    <string name="Actual_Question_2">In the DreamWorks film Shrek, what is the name of Shrek\'s wife?</string>
+
+    <!--Displays text for answer A, question 2.-->
+    <string name="Q2_Answer_A">Cinderella</string>
+
+    <!--Displays text for answer B, question 2.-->
+    <string name="Q2_Answer_B">Snow White</string>
+
+    <!--Displays text for answer C, question 2.-->
+    <string name="Q2_Answer_C">Fiona</string>
+
+    <!--Displays the Header text for question 3.-->
+    <string name="Header_question_3">Question # 3</string>
+
+    <!--Displays the text for the actual question 3.-->
+    <string name="Actual_question_3">In the film Dirty Dancing, what was the name of the actress who played the character Baby?</string>
+
+    <!--Displays text for answer A, question 3.-->
+    <string name="Q3_Answer_A">Carrie Underwood</string>
+
+    <!--Displays the texxt for answer B question 3.-->
+    <string name="Q3_Answer_B">Jennifer Grey</string>
+
+    <!--Displays the text for answer C question 3.-->
+    <string name="Q3_Answer_C">Audrey Hepburn</string>
+
+    <!--Displays the text for the Header for question 4.-->
+    <string name="Header_Question_4">Question # 4</string>
+
+    <!--Displays the actual text for question 4.-->
+    <string name="Actual_Question_4">Who Is Luke Skywalker\'s father in the film series, Star Wars?</string>
+
+    <!--Displays text for answer A, question 4.-->
+    <string name="Q4_Answer_A">Darth Vader</string>
+
+    <!--Displays text for answer B, question 4.-->
+    <string name="Q4_Answer_B">Obi Wan Kenobi</string>
+
+    <!--Displays text for answer C, question 4.-->
+    <string name="Q4_Answer_C">Chewbacca (Chewie)</string>
+
+    <!--Displays Header text for question 5.-->
+    <string name="Header_question_5">Question # 5</string>
+
+    <!--Displays actual text for question 5.-->
+    <string name="Actual_Question_5">Which of the following names belonged to the seven Dwarves in the Disney film, Snow White? Check all that apply, this question is worth 2 points!</string>
+
+    <!--Displays text for Checkbox 1, question 5.-->
+    <string name="Q5_Checkbox1">Psycho, Epilepsy, Cranky</string>
+
+    <!--Displays text for Checkbox 2, question 5.-->
+    <string name="Q5_Checkbox2">Happy, Doc, Grumpy, Sleepy</string>
+
+    <!--Displays text for Checkbox 3, question .-->
+    <string name="Q5_Checkbox3">Bashful, Dopey, Sneezy</string>
+
+    <!--Displays Header text for question 6.-->
+    <string name="Header_Question_6">Question # 6</string>
+
+    <!--Displays text for the actual question 6.-->
+    <string name="Actual_question_6">In the film series The Lord Of The Rings, who carried the one ring that could rule them all?</string>
+
+    <!--Displays text for answer A, question 6.-->
+    <string name="Q6_Answer_A">Legolas</string>
+
+    <!--Displays the text for answer B, question 6.-->
+    <string name="Q6_Answer_B">Aragorn</string>
+
+    <!--Displays the text for answer C, question 6.-->
+    <string name="Q6_Answer_C">Frodo Baggin\'s</string>
+
+    <!--Displays the text for the try again button.-->
+    <string name="Try_Again_Button">Try Again</string>
+
+    <!--Displays text for the "hint" in the EditText box.-->
+    <string name="Edit_text_box">Write Your Answer Here</string>
+
+    <!--Displays the header for question 7.-->
+    <string name="header_question7">Question # 7</string>
+
+    <!--Displays the text for the actual question 7.-->
+    <string name="Actual_Question7">In the Pixar film Brave, what does the enchanted cake turn Princess Merida\'s mother into?</string>
+</resources>
